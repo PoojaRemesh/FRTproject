@@ -6,7 +6,7 @@ I have used the Asure "Static Web Apps" service for this project.
 
 Website link : https://zealous-coast-06cb64e10.1.azurestaticapps.net
 
-The screenshots of the website is as follows:
+The screenshots of the website, as well as, the azure portal are as follows:
 
 HOME (index.html)
 
