@@ -9,7 +9,7 @@ Website link : https://zealous-coast-06cb64e10.1.azurestaticapps.net
 The screenshots of the website is as follows:
 
 HOME (index.html)
-
+![HOME](https://user-images.githubusercontent.com/71176880/172627324-8105dc94-6923-4fa4-9928-9a8fd0360e5c.png)
 
 ABOUT (about.html)
 
