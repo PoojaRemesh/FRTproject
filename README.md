@@ -59,3 +59,8 @@ CONTACT (contact.html)
 
 
 ![CONTACT](https://user-images.githubusercontent.com/71176880/172635275-4e2cd426-0945-4d7e-876e-a495606a2afa.png)
+
+
+Azure portal screenshot
+
+![AZURE](https://user-images.githubusercontent.com/71176880/172636891-41a51c08-6b00-4290-8b77-5a4dc5c8e763.png)
